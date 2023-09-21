@@ -2,7 +2,7 @@
 
 ---
 
-how to definitely logout the github in the local computer?!
+how to definitely logout the github in the local computer?
 
 just run
 
@@ -16,7 +16,7 @@ It worked to me!
 
 ---
 
-TESTING GITHUB CLI WITH `git` COMMANDS!!! IT WORKED!!!!!!!!!!!!!
+Testing GitHub CLI with `git` commands! It works.
 
-<h1>IT IS WORKED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
-<H1 STYLE="FONT-SIZE: 80PX>HOOOOOOORAY!!!!!!!!!!!!!!!!!!!</H1>
+<h1>It works!</h1>
+<h1 STYLE="FONT-SIZE: 80PX>Hoooray!</h1>
