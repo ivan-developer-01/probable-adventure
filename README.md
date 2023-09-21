@@ -19,4 +19,8 @@ It worked to me!
 Testing GitHub CLI with `git` commands! It works.
 
 <h1>It works!</h1>
-<h1 STYLE="FONT-SIZE: 80PX>Hoooray!</h1>
+<h1 style="font-size: 80px">Hoooray!</h1>
+
+---
+
+Another check-in. Does it work?
