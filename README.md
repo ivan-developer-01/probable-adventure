@@ -38,6 +38,6 @@ Yes, so I now have an checked way to commit from the right account:
 
 And you have to save your token somewhere if you plan to use it in further.
 
-Then you can make some changes into the project, do necessary things. Then do `git push`, enter your email, press Enter and finally paste the token you copied.
+Then you can make some changes into the project, do necessary things. Then do `git push`, enter your GitHub username, press Enter and finally paste the token you copied (and if you don't understand it you have to press Enter after all).
 
 **Bingo**, now you understand how to commit properly.
